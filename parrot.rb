@@ -3,4 +3,4 @@
 def parrot(sound ="Squawk")
   puts "Pretty Bird #{sound}."
 end
-parrot("scream")
+parrot
